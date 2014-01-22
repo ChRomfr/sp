@@ -1,0 +1,161 @@
+body{margin:0px; font-family: Verdana, Tahoma, sans-serif; font-size: 11px; }
+a{color:#2992BD}
+
+#header_nav{background: url("images/global-nav.png") repeat-x scroll 0 -68px transparent; font-size: 13px; height:33px;}
+#header{height:140px;display:block;background:url(images/background_header.png); border:1px solid}
+#header_left{background-image:url(images/goliath_logo.png); background-repeat:no-repeat; height:140px; width:140px;}
+#header_center{background-image:url(images/goliath_txt_800.png); background-repeat:no-repeat; height:140px; width:800px;}
+#header_right{background-image:url(images/logo_structure.png); background-repeat:no-repeat; height:140px; width:140px;}
+
+.commentaires_liste {width:100%;}
+.commentaire_liste_header{background-color:grey; border-radius:10px;}
+.commentaire_liste_header td{color:white; font-weight:bold;}
+.commentaire_liste_info{background-color:#01B0F0; border-radius:10px;}
+.commentaire_liste_info td{}
+
+
+.tadmin thead td{background-color:#2E90BD;font-weight: bold;color:#FFF;border:solid 1px;}
+.tadmin tfoot td{background-color:#2E90BD;font-weight: bold;color:#FFF;border:solid 1px;}
+
+.tab_match_head{background-color:#2E90BD;font-weight: bold;color:#FFF;border:solid 1px;}
+
+
+/* AFFICHAGE DES DATA COPIER SUR LE FORM */
+.showData{
+	background:#f7f7f7;
+	background:-moz-linear-gradient(90deg, #ccc, #fff); /* Firefox */
+	background:-webkit-gradient(linear, left top, left bottom, from(#fff), to(#ccc)); /* Webkit */
+	border:1px solid #aaa;	
+	-moz-box-shadow:0 0 15px #aaa;
+	-webkit-box-shadow:0 0 15px #aaa;
+}
+
+.showData h1{
+	border-bottom:1px solid #ccc;	
+}
+
+.showData hr{
+	border-bottom:1px solid #ccc;
+}
+
+/* CODE DE MISE EN FORME DES FORMULAIRES */
+
+form.form{
+	background:#f7f7f7;
+	background:-moz-linear-gradient(90deg, #ccc, #fff); /* Firefox */
+	background:-webkit-gradient(linear, left top, left bottom, from(#fff), to(#ccc)); /* Webkit */
+	border:1px solid #aaa;
+	-moz-box-shadow:0 0 15px #aaa;
+	-webkit-box-shadow:0 0 15px #aaa;
+}
+
+form.form h1{ border-bottom:1px solid #ccc; }
+form.form dt:hover label{ color:#0459b7; }
+form dl span a{ color:#A09C82; }
+
+/* -- ELEMENT DU FORMULAIRE -- */
+form.form input[type=text], div.showData input[type=text],
+form.form input[type=url], div.showData input[type=url],
+form.form input[type=email], div.showData input[type=email],
+form.form input[type=password], div.showData input[type=password]{
+	background: rgba(255, 255, 255, 0.9);
+	background:-moz-linear-gradient(90deg, #fff, #eee); /* Firefox */
+	background:-webkit-gradient(linear, left top, left bottom, from(#eee), to(#fff), color-stop(0.2, #fff)); /* Webkit */
+	border:1px solid #aaa;
+	-moz-box-shadow:0 0 3px #aaa;
+	-webkit-box-shadow:0 0 3px #aaa;
+}
+
+form.form input[type=text], div.showData input[type=text]:focus,
+form.form input[type=url], div.showData input[type=url]:focus,
+form.form input[type=email], div.showData input[type=email]:focus,
+form.form input[type=password], div.showData input[type=password]:focus{
+	border-color:#093c75;
+	-moz-box-shadow:0 0 3px #0459b7;
+	-webkit-box-shadow:0 0 3px #0459b7;
+}
+
+form.form select, div.showData select{
+	-moz-box-shadow:0 0 3px #aaa;
+	-webkit-box-shadow:0 0 3px #aaa;
+}
+
+form.form select, div.showData select:active,
+form.form select, div.showData select:focus{
+	border:1px solid #093c75;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-box-shadow:0 0 3px #0459b7;
+	-webkit-box-shadow:0 0 3px #0459b7;
+}
+
+form.form input[type=submit], div.showData input[type=submit],
+form.form a.submit,
+a.submit{
+	background:#ddd;
+	background:-moz-linear-gradient(90deg, #0459b7, #08adff); /* Firefox */
+	background:-webkit-gradient(linear, left top, left bottom, from(#08adff), to(#0459b7)); /* Webkit */
+	border:1px solid #093c75;
+	-moz-box-shadow:0 1px 0 #fff;
+	-webkit-box-shadow:0 1px 0 #fff;
+	color:#fff;
+	text-shadow:0 1px 1px #333;
+}
+
+form.form input[type=submit]:hover,
+form.form a.submit:hover,
+a.submit:hover{
+	background:#eee;
+	background:-moz-linear-gradient(90deg, #067cd3, #0bcdff);
+	background:-webkit-gradient(linear, left top, left bottom, from(#0bcdff), to(#067cd3));
+	border-color:#093c75;
+}
+
+form.form input[type=submit]:active,
+form.form input[type=submit]:focus,
+form.form a.submit:active,
+form.form a.submit:focus,
+a.submit:active, 
+a.submit:focus{
+	background:#ccc;
+	background:-moz-linear-gradient(90deg, #0bcdff, #067cd3);
+	background:-webkit-gradient(linear, left top, left bottom, from(#067cd3), to(#0bcdff));
+	border-color:#093c75;
+}
+
+
+
+/* MENU DE NAVIGATION */
+#blok_menu{
+	padding-top:5px;
+	color: #707070;
+    width: 202px;	
+}
+
+#blok_menu > h5 {
+	background:url("images/header_menus.png") no-repeat scroll right top #686868;
+	color: #EBEBEB;
+    font-size: 1em;
+    height: 21px;
+    margin: 0;
+    padding: 7px 0 0 15px;
+    width: 187px;
+}
+
+.corpmenu{
+	font-family: Verdana,Tahoma,sans-serif;
+	border-style:solid;
+	boder-color:#D6D6D6;
+}
+
+.corpmenu ul {
+	margin:0;
+}
+
+.corpmenu li{
+	font-family: Verdana,Tahoma,sans-serif;
+	list-style:none;
+	border-bottom: 1px solid #D1D1D1;
+    height: 32px;
+    padding: 5px;
+}

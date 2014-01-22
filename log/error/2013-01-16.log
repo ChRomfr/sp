@@ -1,0 +1,1 @@
+2013-01-16 06:23:20|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'equipe_id' in 'where clause' - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php

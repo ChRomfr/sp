@@ -1,0 +1,4 @@
+2013-02-14 04:58:18|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-14 04:58:18|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-14 04:58:18|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-14 04:58:18|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 579 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php

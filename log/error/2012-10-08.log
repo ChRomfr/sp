@@ -1,0 +1,12 @@
+2012-10-08 11:01:24|Type d'erreur inconnu : [8] Undefined index: Match_enregistre - ligne 31 dans le fichier F:\wamp\www\rugby\app\controller\rugbyController.php
+2012-10-08 10:02:56|Type d'erreur inconnu : [8] Undefined index: Points - ligne 83 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 10:01:52|Type d'erreur inconnu : [8] Undefined index: Points - ligne 83 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 10:01:52|Type d'erreur inconnu : [8] Undefined index: Temps_de_jeu - ligne 79 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 09:55:47|Type d'erreur inconnu : [8] Undefined variable: Joueurs - ligne 291 dans le fichier F:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_data.php
+2012-10-08 09:23:04|Type d'erreur inconnu : [8] Undefined index: Match - ligne 21 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 09:16:01|Type d'erreur inconnu : [8] Undefined index: Score - ligne 42 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 09:16:01|Type d'erreur inconnu : [8] Undefined index: Score - ligne 37 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 09:07:48|Type d'erreur inconnu : [8] Undefined index: Date_match - ligne 22 dans le fichier F:\wamp\www\rugby\cache\e2e4fd699caf0127456f17750bee9c011ce0b5d0.file.match_add.tpl.php
+2012-10-08 05:27:40|Type d'erreur inconnu : [8] Undefined index: Club_ajoute - ligne 25 dans le fichier F:\wamp\www\rugby\app\controller\clubController.php
+2012-10-08 05:26:41|Type d'erreur inconnu : [8] Undefined index: Club_ajoute - ligne 25 dans le fichier F:\wamp\www\rugby\app\controller\clubController.php
+2012-10-08 05:25:40|Type d'erreur inconnu : [8] Undefined index: Club_ajoute - ligne 24 dans le fichier F:\wamp\www\rugby\app\controller\clubController.php

@@ -1,0 +1,33 @@
+2012-10-14 05:16:38|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 05:16:38|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 05:16:38|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 05:16:37|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 05:16:36|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 05:16:07|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sport_gestion.install' doesn't exist - ligne 21 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 09:13:57|Type d'erreur inconnu : [8] Undefined index: muscu_test_add - ligne 633 dans le fichier F:\wamp\www\rugby\app\controller\muscuController.php
+2012-10-14 09:09:34|Type d'erreur inconnu : [8] Undefined index: muscu_test_delete - ligne 49 dans le fichier F:\wamp\www\rugby\cache\9d285cad3c884089942594263bfe238c29a484a0.file.test_liste.tpl.php
+2012-10-14 09:08:33|Type d'erreur inconnu : [8] Undefined index: muscu_test_delete - ligne 50 dans le fichier F:\wamp\www\rugby\cache\9d285cad3c884089942594263bfe238c29a484a0.file.test_liste.tpl.php
+2012-10-14 09:08:33|Type d'erreur inconnu : [8] Undefined index: muscu_test_add - ligne 37 dans le fichier F:\wamp\www\rugby\cache\9d285cad3c884089942594263bfe238c29a484a0.file.test_liste.tpl.php
+2012-10-14 09:08:14|Type d'erreur inconnu : [8] Undefined index: muscu_test_view - ligne 667 dans le fichier F:\wamp\www\rugby\app\controller\muscuController.php
+2012-10-14 09:08:06|Type d'erreur inconnu : [8] Undefined index: muscu_test_view - ligne 667 dans le fichier F:\wamp\www\rugby\app\controller\muscuController.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: id - ligne 46 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: id - ligne 45 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: id - ligne 43 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: dispo_rugby - ligne 38 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: id - ligne 31 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: nom - ligne 28 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:21:05|Type d'erreur inconnu : [8] Undefined index: prenom - ligne 27 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: id - ligne 46 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: id - ligne 45 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: id - ligne 43 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: dispo_rugby - ligne 38 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: id - ligne 31 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: nom - ligne 28 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:17|Type d'erreur inconnu : [8] Undefined index: prenom - ligne 27 dans le fichier F:\wamp\www\rugby\cache\552c5813d5185cad5ebf201921c3623ed3e9c57f.file.getJoueurDisponible.tpl.php
+2012-10-14 08:15:01|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT MAX(tjm.dispo_rugby) FROM joueur_medical tjm WHERE tjm.joueur_id = tj.id)' at line 1 - ligne 34 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-10-14 08:14:03|Type d'erreur inconnu : [8] Undefined index: date_entree - ligne 159 dans le fichier F:\wamp\www\rugby\app\controller\entrainementController.php
+2012-10-14 08:14:03|Type d'erreur inconnu : [8] Undefined index: date_entree - ligne 159 dans le fichier F:\wamp\www\rugby\app\controller\entrainementController.php
+2012-10-14 08:14:03|Type d'erreur inconnu : [8] Undefined index: date_entree - ligne 159 dans le fichier F:\wamp\www\rugby\app\controller\entrainementController.php
+2012-10-14 08:14:03|Type d'erreur inconnu : [8] Undefined index: date_entree - ligne 159 dans le fichier F:\wamp\www\rugby\app\controller\entrainementController.php
+2012-10-14 08:12:48|Type d'erreur inconnu : [8] Undefined variable: Row - ligne 158 dans le fichier F:\wamp\www\rugby\app\controller\entrainementController.php
+2012-10-14 07:16:48|Type d'erreur inconnu : [8] Undefined index: Annee - ligne 76 dans le fichier F:\wamp\www\rugby\cache\684bb060d2dc04e7269a41e913579f83766addab.file.add.tpl.php

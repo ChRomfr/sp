@@ -1,0 +1,8 @@
+Mise a jour termine UPDATE config SET valeur = "2013021802" WHERE cle = "version" #OK
+ALTER TABLE  `joueur` CHANGE  `site_id`  `site_id` INT( 11 ) NULL DEFAULT  '0' #OK
+Creation du dossier pour stocker les logs
+Version : 2013021802
+Debut de la mise a jour ...
+Creation du dossier pour stocker les logs
+Version : 2013021802
+Debut de la mise a jour ...

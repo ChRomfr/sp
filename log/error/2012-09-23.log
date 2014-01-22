@@ -1,0 +1,5 @@
+2012-09-23 05:07:12|Type d'erreur inconnu : [8] Undefined index: Question_ajoutee - ligne 112 dans le fichier F:\wamp\www\rugby\app\controller\suiviMedicalController.php
+2012-09-23 05:02:35|Type d'erreur inconnu : [8] Undefined index: Question_ajoutee - ligne 112 dans le fichier F:\wamp\www\rugby\app\controller\suiviMedicalController.php
+2012-09-23 04:45:49|Type d'erreur inconnu : [8] Undefined index: Question_ajoutee - ligne 106 dans le fichier F:\wamp\www\rugby\app\controller\suiviMedicalController.php
+2012-09-23 04:45:49|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'multi_reply' cannot be null - ligne 34 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-09-23 03:53:54|Type d'erreur inconnu : [8] Undefined index: lastBuildDate - ligne 159 dans le fichier F:\wamp\www\rugby\kernel\lib\lastRSS.php

@@ -1,0 +1,56 @@
+2012-12-24 11:51:59|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'objectif_stagiaire' in 'field list' - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-12-24 11:28:42|Type d'erreur inconnu : [8] Undefined index: Attentu - ligne 62 dans le fichier D:\wamp\www\rugby\cache\8cce7d4188b1400268363f486bdeb280af3a7ff8.file.bfs_ajax_form_add.tpl.php
+2012-12-24 11:19:53|Type d'erreur inconnu : [8] Undefined index: Modifie - ligne 69 dans le fichier D:\wamp\www\rugby\cache\8cce7d4188b1400268363f486bdeb280af3a7ff8.file.bfs_ajax_form_add.tpl.php
+2012-12-24 11:19:53|Type d'erreur inconnu : [8] Undefined index: Attentu - ligne 62 dans le fichier D:\wamp\www\rugby\cache\8cce7d4188b1400268363f486bdeb280af3a7ff8.file.bfs_ajax_form_add.tpl.php
+2012-12-24 11:19:53|Type d'erreur inconnu : [8] Undefined index: Nouveau_bfs - ligne 23 dans le fichier D:\wamp\www\rugby\cache\8cce7d4188b1400268363f486bdeb280af3a7ff8.file.bfs_ajax_form_add.tpl.php
+2012-12-24 04:07:22|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-12-24 04:07:22|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 49 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2012-12-24 04:07:22|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-12-24 04:07:22|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 130 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2012-12-24 04:07:19|Type d'erreur inconnu : [8] Undefined index: sportif_id - ligne 31 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 04:07:19|Type d'erreur inconnu : [8] Undefined index: id - ligne 28 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 02:46:17|Type d'erreur inconnu : [8] Undefined index: sportif_id - ligne 135 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 02:46:17|Type d'erreur inconnu : [8] Undefined index: sportif_id - ligne 134 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 02:46:17|Type d'erreur inconnu : [8] Undefined offset: 1 - ligne 517 dans le fichier D:\wamp\www\rugby\kernel\core\functions.php
+2012-12-24 02:46:17|Type d'erreur inconnu : [8] Undefined offset: 2 - ligne 517 dans le fichier D:\wamp\www\rugby\kernel\core\functions.php
+2012-12-24 02:46:13|Type d'erreur inconnu : [8] Undefined index: sportif_id - ligne 135 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 02:46:13|Type d'erreur inconnu : [8] Undefined index: sportif_id - ligne 134 dans le fichier D:\wamp\www\rugby\app\controller\scolaireController.php
+2012-12-24 02:46:13|Type d'erreur inconnu : [8] Undefined offset: 1 - ligne 517 dans le fichier D:\wamp\www\rugby\kernel\core\functions.php
+2012-12-24 02:46:13|Type d'erreur inconnu : [8] Undefined offset: 2 - ligne 517 dans le fichier D:\wamp\www\rugby\kernel\core\functions.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 562 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 02:35:37|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 562 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 01:49:58|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 562 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 10:32:38|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2012-12-24 10:26:47|Type d'erreur inconnu : [8] Undefined variable: DPPs - ligne 291 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_data.php

@@ -1,0 +1,6 @@
+2012-09-17 09:51:24|Type d'erreur inconnu : [8] Undefined index: lastBuildDate - ligne 159 dans le fichier F:\wamp\www\rugby\kernel\lib\lastRSS.php
+2012-09-17 08:24:22|Type d'erreur inconnu : [8] Undefined index: Questionnaire_ajoute - ligne 75 dans le fichier F:\wamp\www\rugby\app\controller\suiviMedicalController.php
+2012-09-17 08:23:00|Type d'erreur inconnu : [8] Undefined index: Questionnaire_ajoute - ligne 72 dans le fichier F:\wamp\www\rugby\app\controller\suiviMedicalController.php
+2012-09-17 08:23:00|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'creat_by' cannot be null - ligne 34 dans le fichier F:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2012-09-17 06:27:49|Type d'erreur inconnu : [8] Undefined index: Enregistre - ligne 33 dans le fichier F:\wamp\www\rugby\cache\a25edf5430c89bdc1f34ce90dafcb72c4b9cc4a1.file.addQuestionnaire.tpl.php
+2012-09-17 06:27:10|Type d'erreur inconnu : [8] Undefined index: lastBuildDate - ligne 159 dans le fichier F:\wamp\www\rugby\kernel\lib\lastRSS.php

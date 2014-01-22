@@ -1,0 +1,67 @@
+	<!-- NAVBAR -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" date-target=".nav-collapse">
+					<span class="icon-bar"></sapn>
+					<span class="icon-bar"></sapn>
+					<span class="icon-bar"></sapn>
+				</a>
+				<a class="brand" href="{getLink("index")}"><i class="icon-home icon-white"></i></a>
+				<div class="nav-collapse">
+				
+					<ul class="nav">
+						{if $smarty.session.utilisateur.id != "Visiteur"}
+							{if $smarty.session.acl.view_all_fiche == true}
+								<li class="dropdown">
+									<a href="{getLink("joueur")}" title="" class="dropdown-toggle" data-toggle="dropdown">
+										{$lang.Joueurs}
+										<b class="caret"></b>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="{getLink("joueur")}" title="">{$lang.Liste}</a></li>
+										<li><a href="{getLink("joueur/add")}" title="">{$lang.Nouveau}</a></li>
+									</ul>
+								</li>
+							{/if}
+							{if $smarty.session.utilisateur.type == 'joueur'}
+								<li><a href="{getLink("joueur")}" title="">{$lang.Fiche}</a></li>
+							{/if}
+
+							{if $InfosInstall.i_type == 'full'}
+							<!-- Document -->
+							<li><a href="{getLink("document")}" title="">{$lang.Documents}</a></li>
+
+							<!-- Musculation -->
+							<li class="dropdown">
+								<a href="{getLink("musculation")}" title="" class="dropdown-toggle" data-toggle="dropdown">
+									{$lang.Musculation}
+									<b class="caret"></b>
+								</a>
+								<ul class="dropdown-menu">
+									<li><a href="{getLink("musculation")}" title="">{$lang.Exercice}</a></li>
+									<li><a href="{getLink("muscu/cycleListe?all")}" title="">{$lang.Cycle}</a></li>
+									<li class="dropdown-submenu">
+										<a href="{getLink("muscu/seanceListe")}" title="" class="dropdown-toggle" data-toggle="dropdown">{$lang.Seance}</a>
+										<ul class="dropdown-menu">
+											<li><a href="{getLink("muscu/seanceListe")}">{$lang.Liste}</a></li>
+											{if $smarty.session.acl.gest_muscu == 1}<li><a href="{getLink("muscu/seanceAdd")}">{$lang.Ajouter_un_modele}</a></li>{/if}
+										</ul>
+									</li>
+									<li><a href="{getLink("muscu/testListe")}" title="">{$lang.Test}</a></li>
+								</ul>
+							</li>
+							{/if}
+
+							
+							
+
+							<!-- Deconnexion -->
+							<li><a href="{getLink("connexion/logout")}" title=""><i class="icon-off icon-white"></i></a></li>
+
+						{/if}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div><!-- /navbar -->

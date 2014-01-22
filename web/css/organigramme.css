@@ -1,0 +1,151 @@
+.organigramme_directeur_administratif{
+    min-height: 50px;
+    background-color: #FFFF80;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px
+}
+
+.organigramme_directeur{
+    min-height: 50px;
+    background-color: #80FFFF;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px
+}
+
+.organigramme_coordinateur{
+    min-height: 50px;
+    background-color: #FFC0C0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px
+}
+
+.organigramme_entraineur{
+    min-height: 50px;
+    background-color: #FF8080;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px;
+}
+
+.organigramme_prepateur_physique{
+    min-height: 50px;
+    background-color: #C0FFC0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_responsable_musculation{
+    min-height: 50px;
+    background-color: #E0E0E0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_coordinateur_medicale{
+    min-height: 50px;
+    background-color: #FFFF80;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_kine{
+    min-height: 50px;
+    background-color: #C0C0FF;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_medecin{
+    min-height: 50px;
+    background-color: #C0FFC0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_diete{
+    min-height: 50px;
+    background-color: #FFC0FF;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_psycho{
+    min-height: 50px;
+    background-color: #D2FEC0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_podologue{
+    min-height: 50px;
+    background-color: #C0C0FF;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_dentiste{
+    min-height: 50px;
+    background-color: #FF8080;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_suivi_scolaire{
+    min-height: 50px;
+    background-color: #FFFFC0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_acc{
+    min-height: 50px;
+    background-color: #C0FFC0;
+    width:200px;
+    text-align: center;
+    float:left;
+    margin:auto;
+    margin-left: 2px; 
+}
+
+.organigramme_seperator{ height:10px;}

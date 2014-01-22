@@ -1,0 +1,9 @@
+2012-11-29 07:43:34|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php
+2012-11-29 07:43:34|Type d'erreur inconnu : [8] Undefined index: Pregrammation - ligne 42 dans le fichier F:\wamp\www\rugby\cache\fe90fa67bf09ff56064050de7be5f068a2f1ba98.file.index.tpl.php
+2012-11-29 07:15:06|Type d'erreur inconnu : [8] Undefined variable: Exercices - ligne 291 dans le fichier F:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_data.php
+2012-11-29 07:13:24|Type d'erreur inconnu : [8] Undefined variable: Exercices - ligne 291 dans le fichier F:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_data.php
+2012-11-29 06:52:56|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php
+2012-11-29 06:52:47|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php
+2012-11-29 06:52:42|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php
+2012-11-29 06:21:40|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php
+2012-11-29 06:21:35|Type d'erreur inconnu : [2] require_once(\indexController.php): failed to open stream: No such file or directory - ligne 95 dans le fichier F:\wamp\www\rugby\kernel\core\Router.class.php

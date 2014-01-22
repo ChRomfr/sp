@@ -1,0 +1,27 @@
+2012-10-15 10:38:18|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:38:18|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:38:18|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:57|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:57|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:57|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:50|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:50|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 10:25:50|Type d'erreur inconnu : [8] Undefined property: stdClass::$url - ligne 27 dans le fichier F:\wamp\www\rugby\app\controller\widgetController.php
+2012-10-15 09:06:33|Type d'erreur inconnu : [8] Undefined index: Titre - ligne 32 dans le fichier F:\wamp\www\rugby\cache\7c6d832659ad22a0abb25ace7d0743240ce7fd70.file.index.tpl.php
+2012-10-15 09:03:53|Type d'erreur inconnu : [8] Undefined index: Nouvel_evement - ligne 29 dans le fichier F:\wamp\www\rugby\cache\7c6d832659ad22a0abb25ace7d0743240ce7fd70.file.index.tpl.php
+2012-10-15 09:00:43|Type d'erreur inconnu : [8] Undefined index: Calendrier - ligne 21 dans le fichier F:\wamp\www\rugby\cache\7c6d832659ad22a0abb25ace7d0743240ce7fd70.file.index.tpl.php
+2012-10-15 08:58:20|Type d'erreur inconnu : [8] Undefined index: user - ligne 18 dans le fichier F:\wamp\www\rugby\app\controller\gcalendarController.php
+2012-10-15 08:58:20|Type d'erreur inconnu : [8] Undefined index: user - ligne 17 dans le fichier F:\wamp\www\rugby\app\controller\gcalendarController.php
+2012-10-15 08:20:55|Type d'erreur inconnu : [2] require_once(Zend/Http/Client.php): failed to open stream: No such file or directory - ligne 32 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Gdata\App.php
+2012-10-15 08:20:08|Type d'erreur inconnu : [2] require_once(Zend/Version.php): failed to open stream: No such file or directory - ligne 72 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Gdata\App\FeedEntryParent.php
+2012-10-15 08:12:17|Type d'erreur inconnu : [2] require_once(Zend/Exception.php): failed to open stream: No such file or directory - ligne 86 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:12:17|Type d'erreur inconnu : [2] include_once(): Failed opening 'Zend\Gdata.php' for inclusion (include_path='.;C:\php\pear') - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:12:17|Type d'erreur inconnu : [2] include_once(Zend\Gdata.php): failed to open stream: No such file or directory - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:09:16|Type d'erreur inconnu : [2] require_once(Zend/Exception.php): failed to open stream: No such file or directory - ligne 86 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:09:16|Type d'erreur inconnu : [2] include_once(): Failed opening 'Zend\Gdata.php' for inclusion (include_path='.;C:\php\pear') - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:09:16|Type d'erreur inconnu : [2] include_once(Zend\Gdata.php): failed to open stream: No such file or directory - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:07:22|Type d'erreur inconnu : [2] require_once(Zend/Exception.php): failed to open stream: No such file or directory - ligne 86 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:07:22|Type d'erreur inconnu : [2] include_once(): Failed opening 'Zend\Gdata.php' for inclusion (include_path='.;C:\php\pear') - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:07:22|Type d'erreur inconnu : [2] include_once(Zend\Gdata.php): failed to open stream: No such file or directory - ligne 134 dans le fichier F:\wamp\www\rugby\kernel\lib\Zend\Loader.php
+2012-10-15 08:07:22|Type d'erreur inconnu : [8] Undefined variable: registry - ligne 20 dans le fichier F:\wamp\www\rugby\kernel\core\Controller.class.php
+2012-10-15 08:07:22|Type d'erreur inconnu : [2] Missing argument 1 for Controller::__construct(), called in F:\wamp\www\rugby\app\controller\gcalendarController.php on line 6 and defined - ligne 17 dans le fichier F:\wamp\www\rugby\kernel\core\Controller.class.php

@@ -1,0 +1,50 @@
+img{border:none;}
+#contenu{width:1000px; margin:auto;}
+#blockGauche{ width:200px; float:left;}
+#blockCentre{ margin-left:250px; overflow: hidden;}
+#header{height:140px;display:block;}
+.center{text-align: center;}
+.sep {border-top: 1px dashed blue; margin-top:10px; padding-bottom: 10px;}
+.fleft{float:left;}
+.fright{float:right;}
+.clear{clear:both;}
+
+.commentaires_liste {width:100%;}
+.commentaire_liste_header{background-color:grey; border-radius:10px;}
+.commentaire_liste_header td{color:white; font-weight:bold;}
+.commentaire_liste_info{background-color:#01B0F0; border-radius:10px;}
+.commentaire_liste_info td{}
+
+.tadmin{width:95%; margin:auto; border-collapse: collapse;}
+.tadmin thead td{background-color:blue;font-weight: bold;color:#FFF;}
+.tadmin tbody td{border:solid 1px blue;}
+
+form dl{
+	height:auto;
+	overflow:hidden;
+	margin-bottom:16px;
+}
+   
+form dt{
+	width:30%;
+	text-align:left;
+	padding-top:3px;
+	float:left;
+	display:block;
+}
+
+form dd{
+	margin: 0 0 0 30%;
+	padding: 0 0 0 5px;
+	border:none;
+	vertical-align:top;
+	display:block;
+}
+
+form dt label{
+	font-size: 13px;
+	color:blue;
+	text-decoration:none;
+}
+
+form dl span a{ color:#A09C82; }

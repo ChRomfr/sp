@@ -1,0 +1,8 @@
+2012-09-02 06:36:28|Type d'erreur inconnu : [8] Undefined index: smtp_login - ligne 150 dans le fichier F:\wamp\www\rugby\kernel\core\functions.php
+2012-09-02 06:36:02|Type d'erreur inconnu : [8] Undefined index: smtp_login - ligne 150 dans le fichier F:\wamp\www\rugby\kernel\core\functions.php
+2012-09-02 06:36:02|Type d'erreur inconnu : [8] Undefined property: joueurController::$config - ligne 720 dans le fichier F:\wamp\www\rugby\app\controller\joueurController.php
+2012-09-02 06:32:42|Type d'erreur inconnu : [8] Undefined variable: config - ligne 143 dans le fichier F:\wamp\www\rugby\kernel\core\functions.php
+2012-09-02 06:32:19|Type d'erreur inconnu : [8] Undefined variable: config - ligne 143 dans le fichier F:\wamp\www\rugby\kernel\core\functions.php
+2012-09-02 06:31:59|Type d'erreur inconnu : [8] Undefined index: HTTPRquest - ligne 42 dans le fichier F:\wamp\www\rugby\kernel\core\Registry.class.php
+2012-09-02 06:08:28|Type d'erreur inconnu : [8] Undefined index: Objet - ligne 37 dans le fichier F:\wamp\www\rugby\cache\e2a2d010b6a79ba790a189dc57194b352774cf78.file.sendGroupMail.tpl.php
+2012-09-02 05:43:43|Type d'erreur inconnu : [8] Undefined index: lastBuildDate - ligne 159 dans le fichier F:\wamp\www\rugby\kernel\lib\lastRSS.php

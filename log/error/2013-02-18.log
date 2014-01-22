@@ -1,0 +1,223 @@
+2013-02-18 11:18:08|Type d'erreur inconnu : [8] Undefined variable: manager - ligne 75 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 11:18:08|Type d'erreur inconnu : [2] Missing argument 1 for Baseutilisateur::save(), called in D:\wamp\www\rugby\app\controller\administrationController.php on line 79 and defined - ligne 68 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 11:18:08|Type d'erreur inconnu : [2048] Declaration of Baseutilisateur::save() should be compatible with Record::save() - ligne 82 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 11:02:35|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:35|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:35|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 11:02:35|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 11:02:34|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:20|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:59:16|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8' for key 'PRIMARY' - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:58:52|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:58:11|Type d'erreur inconnu : [8] Undefined property: stdClass::$paren - ligne 78 dans le fichier D:\wamp\www\rugby\app\controller\parenController.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:55:57|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:40|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, boolean given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 484 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 21 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 207 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 29 dans le fichier D:\wamp\www\rugby\kernel\lib\Form.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 140 dans le fichier D:\wamp\www\rugby\cache\3596ccc33c6b4e9a28a375d256d00b2e8a7f453b.file.fiche_tab_documents.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 51 dans le fichier D:\wamp\www\rugby\cache\3596ccc33c6b4e9a28a375d256d00b2e8a7f453b.file.fiche_tab_documents.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 91 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 79 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 77 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 75 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 66 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 66 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [8] Array to string conversion - ligne 41 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_saisie DESC' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_saisie DESC' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY t.date_test' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, boolean given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 416 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:30|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:50:29|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:50:29|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined variable: data_img - ligne 585 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3775 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3774 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3772 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 3759 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [2] Division by zero - ligne 1941 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 1913 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pDraw.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:49:01|Type d'erreur inconnu : [8] Undefined index: Data - ligne 100 dans le fichier D:\wamp\www\rugby\kernel\lib\pChart\class\pData.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 21 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 207 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 29 dans le fichier D:\wamp\www\rugby\kernel\lib\Form.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 140 dans le fichier D:\wamp\www\rugby\cache\3596ccc33c6b4e9a28a375d256d00b2e8a7f453b.file.fiche_tab_documents.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 51 dans le fichier D:\wamp\www\rugby\cache\3596ccc33c6b4e9a28a375d256d00b2e8a7f453b.file.fiche_tab_documents.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY t.date_test' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, boolean given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 484 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 91 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 79 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 77 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 75 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 66 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 66 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [8] Array to string conversion - ligne 41 dans le fichier D:\wamp\www\rugby\cache\e6b7e2b1a9b2c413a68932f1658cbb63fcc150b8.file.fiche_tab_physique.tpl.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_saisie DESC' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date_saisie DESC' at line 1 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 53 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, boolean given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 416 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 3 - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:43|Type d'erreur inconnu : [2] PDO::quote() expects parameter 1 to be string, array given - ligne 134 dans le fichier D:\wamp\www\rugby\kernel\core\DB\Db.class.php
+2013-02-18 10:48:41|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cfd_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:41|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cfd_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:41|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cfd_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:48:41|Type d'erreur inconnu : [2] mkdir(): File exists - ligne 229 dans le fichier D:\wamp\www\rugby\app\controller\joueurController.php
+2013-02-18 10:48:41|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'joueur_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:46:52|Type d'erreur inconnu : [2048] Declaration of Baseutilisateur::save() should be compatible with Record::save() - ligne 82 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 10:32:20|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, null given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 180 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:13:44|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, null given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 180 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:03:32|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, null given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 177 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:03:32|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'site_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:02:58|Type d'erreur inconnu : [4096] Argument 1 passed to Record::__construct() must be of the type array, null given, called in D:\wamp\www\rugby\app\controller\joueurController.php on line 177 and defined - ligne 8 dans le fichier D:\wamp\www\rugby\kernel\core\Record.class.php
+2013-02-18 10:02:58|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'site_id' cannot be null - ligne 34 dans le fichier D:\wamp\www\rugby\kernel\core\DB\EPDO.php
+2013-02-18 10:02:58|Type d'erreur inconnu : [2048] Declaration of structure::save() should be compatible with Record::save() - ligne 32 dans le fichier D:\wamp\www\rugby\app\model\structure.php
+2013-02-18 09:55:19|Type d'erreur inconnu : [2048] Declaration of Baseutilisateur::save() should be compatible with Record::save() - ligne 82 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 09:20:27|Type d'erreur inconnu : [2048] Declaration of joueur::save() should be compatible with Record::save() - ligne 66 dans le fichier D:\wamp\www\rugby\app\model\joueur.php
+2013-02-18 09:20:27|Type d'erreur inconnu : [2048] Declaration of joueur::save() should be compatible with Record::save() - ligne 66 dans le fichier D:\wamp\www\rugby\app\model\joueur.php
+2013-02-18 09:20:26|Type d'erreur inconnu : [2048] Declaration of joueur::save() should be compatible with Record::save() - ligne 66 dans le fichier D:\wamp\www\rugby\app\model\joueur.php
+2013-02-18 09:19:30|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:19:30|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:19:28|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:19:27|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:19:27|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:19:27|Type d'erreur inconnu : [2048] Declaration of Baseutilisateur::save() should be compatible with Record::save() - ligne 82 dans le fichier D:\wamp\www\rugby\kernel\base_app\model\Baseutilisateur.php
+2013-02-18 09:16:17|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:16:17|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php
+2013-02-18 09:16:16|Type d'erreur inconnu : [8] Undefined index: unifunc - ligne 442 dans le fichier D:\wamp\www\rugby\kernel\lib\smarty\sysplugins\smarty_internal_template.php

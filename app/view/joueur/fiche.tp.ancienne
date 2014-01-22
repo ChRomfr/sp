@@ -1,0 +1,281 @@
+<script type="text/javascript">
+<!--
+$(function() {
+	$( "#tabs" ).tabs({
+		ajaxOptions: {
+			error: function( xhr, status, index, anchor ) {
+				$( anchor.hash ).html(
+					"Couldn't load this tab. We'll try to fix this as soon as possible. " +
+					"If this wouldn't be a demo." );
+			}
+		}
+	});
+});
+
+function showTab(tab_id){
+	var $tabs = $('#tabs').tabs();
+    $(function(){
+        $tabs.tabs('select',tab_id);
+        return false;
+    })
+}
+
+
+{* Code JS Ajout parent *}
+
+{if count($Parents) < 2 && $smarty.session.acl.parent_add == true}
+$(function() {
+    $( "#diag-form-parent-add" ).dialog({ autoOpen: false, width:600 });
+});
+function showFormParent(jid){
+    $.get(
+        '{getLink("paren/add")}',{literal}
+        {joueur_id:jid, nohtml:'nohtml'},
+        function(data){ $('#diag-form-parent-add').html(data); }
+    )
+    {/literal}
+    
+     $( "#diag-form-parent-add" ).dialog('open');
+}
+{/if}
+
+{* Code JS Edition parent *}
+{if $smarty.session.acl.parent_edit == true}
+$(function() {
+    $( "#diag-form-parent-edit" ).dialog({ autoOpen: false, width:600 });
+});
+function showFormParentEdit(pid){
+    $.get(
+        '{getLink("paren/edit/")}'+pid,{literal}
+        {nohtml:'nohtml'},
+        function(data){ $('#diag-form-parent-edit').html(data); }
+    )
+    {/literal}
+    
+     $( "#diag-form-parent-edit" ).dialog('open');
+}
+{/if}
+
+{* Code JS Suppression parent *}
+
+{if $smarty.session.acl.parent_delete == true}
+function deleteParent(pid){
+    if( confirm('{$lang.Confirm_suppression_parent} ?') ){
+        window.location.href = '{getLink("paren/delete/' + pid +'")}';   
+    }
+}
+{/if}
+
+{if $smarty.session.acl.delete_joueur == true}
+function deleteJoueur( joueur_id ){
+	if( confirm('{$lang.Confirm_suppression_joueur} ?') ){
+		window.location.href = '{getLink("joueur/delete/'+ joueur_id +'")}';
+	}
+}
+{/if}
+//-->
+</script>
+
+{if $smarty.const.BREAD == true}
+<div id="bread">
+    <a href="{getLink("index/index")}" title="">{$lang.Accueil}</a>&nbsp;>>&nbsp;
+    <a href="{getLink("joueur/index")}" title="">{$lang.Joueur}</a>&nbsp;>>&nbsp;
+    {$Joueur.nom} {$Joueur.prenom}
+</div>
+{/if}
+
+
+<div style="float:right;">
+	{if $smarty.session.acl.edit_joueur == true}
+	<a href="{getLink("joueur/edit/{$Joueur.id}")}" title=""><img src="{$config.url}{$config.url_dir}web/images/edit.png" alt="" /></a>
+	{/if}
+	
+	{if $smarty.session.acl.delete_joueur == true}
+	<a href="javascript:deleteJoueur({$Joueur.id})" title=""><img src="{$config.url}{$config.url_dir}web/images/delete.png" alt="" /></a>
+	{/if}
+</div>
+<div style="clear:both;"></div>
+
+
+<br/>
+<div id="fiche_detail" class="showData">
+	<h1>{$Joueur.prenom} {$Joueur.nom}</h1>
+	
+    {if !empty($Joueur.photo_id)}
+        <div class="center"><img src="{$config.url}{$config.url_dir}web/upload/joueurs/{$Joueur.id}/photo_id/{$Joueur.photo_id}" style="width:150px;" /></div>
+    {/if}
+	
+	<table class="tadmin" style="width:100%;">
+		<tr>
+			<td>{$lang.Nom} :</td>
+			<td>{$Joueur.nom}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Prenom} :</td>
+			<td>{$Joueur.prenom}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Date_de_naissance} :</td>
+			<td>{$Joueur.date_naissance|date_format:$config.format_date_day}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Lieu_de_naissance} :</td>
+			<td>{$Joueur.lieu_naissance}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Adresse}</td>
+			<td>{$Joueur.adresse}<br/>{$Joueur.code_postal} {$Joueur.ville}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Contact}</td>
+			<td>
+				<ul>
+					{if $Joueur.telephone != ''}<li>{$Joueur.telephone}</li>{/if}
+					{if $Joueur.portable != ''}<li>{$Joueur.portable}</li>{/if}
+					{if $Joueur.email != ''}<li>{$Joueur.email}</li>{/if}
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>{$lang.Club} :</td>
+			<td><a href="javascript:showTab(1)" title="">{$Club.nom}</a></td>
+		</tr>
+		<tr>
+			<td>{$lang.Taille} :</td>
+			<td>{$Joueur.taille} cm</td>
+		</tr>
+		<tr>
+			<td>{$lang.Poids} :</td>
+			<td>{$Joueur.poids} kg</td>
+		</tr>
+		<tr>
+			<td>{$lang.Date_entree} :</td>
+			<td>{$Joueur.date_entree|date_format:$config.format_date_day}</td>
+		</tr>
+		<tr>
+			<td>{$lang.Date_de_sortie} :</td>
+			<td>{$Joueur.date_sortie|date_format:$config.format_date_day}</td>
+		</tr>
+	</table>
+</div>
+<div>&nbsp;</div>
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">{$lang.Env_familiale}</a></li>
+		<li><a href="{getLink("joueur/getClubInfo/{$Joueur.id}?nohtml")}">{$lang.Club}</a></li>
+		<li><a href="{getLink("joueur/getEtabInfo/{$Joueur.id}?nohtml")}">{$lang.Scolaire}</a></li>
+		<li><a href="{getLink("joueur/getPhysiqueInfo/{$Joueur.id}?nohtml")}">{$lang.Physique}</a></li>
+		<li><a href="{getLink("joueur/getEntrainementInfo/{$Joueur.id}?nohtml")}">{$lang.Entrainement}</a></li>
+        <li><a href="{getLink("joueur/getSuiviMedical/{$Joueur.id}?nohtml")}">{$lang.Suivi_medical}</a></li>
+        <li><a href="{getLink("joueur/getMuscuInfo/{$Joueur.id}?nohtml")}">{$lang.Musculation}</a></li>
+		<li><a href="{getLink("joueur/getTestInfo/{$Joueur.id}?nohtml")}">{$lang.Tests}</a></li>
+        <li><a href="{getLink("joueur/getDocuments/{$Joueur.id}?nohtml")}">{$lang.Documents}</a></li>
+	</ul>
+	<div id="tabs-1">
+        {if count($Parents) < 2}
+            <div style="float:right"><a href="javascript:showFormParent({$Joueur.id});"><img src="{$config.url}{$config.url_dir}web/images/addSmall.png" /></a></div>
+            <div style="clear:both"></div>
+        {/if}
+		<p>{$lang.Situation} : {$Joueur.parent_situation}</p>
+		{if isset($Parents.0)}
+		<div class="sep"></div>
+		<table class="tadmin">
+			<caption>{$lang.Parents}</caption>
+			<tr>
+				<th></th>
+				<td>
+                    {if $Parents.0.type == "p"}{$lang.Pere}{elseif $Parents.0.type == "m"}{$lang.Mere}{/if}
+                    {if $smarty.session.acl.parent_edit == true}<a href="javascript:showFormParentEdit({$Parents.0.id})"><img src="{$config.url}{$config.url_dir}web/images/edit.png" alt="" style="width:10px;" /></a>{/if}
+                    {if $smarty.session.acl.parent_delete == true}<a href="javascript:deleteParent({$Parents.0.id})"><img src="{$config.url}{$config.url_dir}web/images/delete.png" alt="" style="width:10px;" /></a>{/if}
+                </td>
+				{if isset($Parents.1)}
+                <td>
+                    {if $Parents.1.type == "p"}{$lang.Pere}{elseif $Parents.1.type == "m"}{$lang.Mere}{/if}
+                    {if $smarty.session.acl.parent_edit == true}<a href="javascript:showFormParentEdit({$Parents.1.id})"><img src="{$config.url}{$config.url_dir}web/images/edit.png" alt="" style="width:10px;" /></a>{/if}
+                    {if $smarty.session.acl.parent_delete == true}<a href="javascript:deleteParent({$Parents.1.id})"><img src="{$config.url}{$config.url_dir}web/images/delete.png" alt="" style="width:10px;" /></a>{/if}
+                </td>
+                {/if}
+			</tr>
+			<tr>
+				<th>{$lang.Nom}</th>
+				<td>{$Parents.0.nom}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.nom}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Prenom}</th>
+				<td>{$Parents.0.prenom}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.prenom}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Adresse}</th>
+				<td>{$Parents.0.adresse}<br/>{$Parents.0.code_postal} {$Parents.0.ville}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.adresse}<br/>{$Parents.1.code_postal} {$Parents.1.ville}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Telephone}</th>
+				<td>{$Parents.0.telephone}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.telephone}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Portable}</th>
+				<td>{$Parents.0.portable}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.portable}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Profession}</th>
+				<td>{$Parents.0.emploi}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.emploi}</td>{/if}
+			</tr>
+			<tr>
+				<th>{$lang.Telephone} pro</th>
+				<td>{$Parents.0.telephone_pro}</td>
+				{if isset($Parents.1)}<td>{$Parents.1.telephone_pro}</td>{/if}
+			</tr>
+		</table>
+		{/if}
+	</div>
+</div>
+
+{if count($Parents) < 2 && $smarty.session.acl.parent_add == true}<div id="diag-form-parent-add"></div>{/if}
+{if $smarty.session.acl.parent_edit == true}<div id="diag-form-parent-edit"></div>{/if}
+
+{* Script JS pour le chagement du bon tableau a l appel de la page *}
+{if isset($smarty.get.tab) && $smarty.get.tab == 'physique' }
+<script>
+    var $tabs = $('#tabs').tabs();
+    $(function(){
+        $tabs.tabs('select',3);
+        return false;
+    })
+</script>
+{/if}
+
+{if isset($smarty.get.tab) && $smarty.get.tab == 'entrainement' }
+<script>
+    var $tabs = $('#tabs').tabs();
+    $(function(){
+        $tabs.tabs('select',4);
+        return false;
+    })
+</script>
+{/if}
+
+{if isset($smarty.get.tab) && $smarty.get.tab == 'suivimedical' }
+<script>
+    var $tabs = $('#tabs').tabs();
+    $(function(){
+        $tabs.tabs('select',5);
+        return false;
+    })
+</script>
+{/if}
+
+{if isset($smarty.get.tab) && $smarty.get.tab == 'musculation' }
+<script>
+    var $tabs = $('#tabs').tabs();
+    $(function(){
+        $tabs.tabs('select',6);
+        return false;
+    })
+</script>
+{/if}

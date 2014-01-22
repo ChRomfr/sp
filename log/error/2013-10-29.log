@@ -1,0 +1,4 @@
+2013-10-29 03:58:24|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected - ligne 21 dans le fichier D:\wamp\www\goliathv2\kernel\core\DB\EPDO.php
+2013-10-29 03:56:11|Type d'erreur inconnu : [2] PDO::query(): SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected - ligne 21 dans le fichier D:\wamp\www\goliathv2\kernel\core\DB\EPDO.php
+2013-10-29 03:56:11|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected - ligne 34 dans le fichier D:\wamp\www\goliathv2\kernel\core\DB\EPDO.php
+2013-10-29 03:56:11|Type d'erreur inconnu : [2] PDOStatement::execute(): SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected - ligne 34 dans le fichier D:\wamp\www\goliathv2\kernel\core\DB\EPDO.php
